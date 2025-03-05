@@ -1,0 +1,13 @@
+DATA PROCESSING AGREEMENT  
+Effective Date: October 2023  
+
+1. Scope  
+This agreement governs CLIk_AI’s processing of user data on behalf of enterprise customers.  
+
+2. Security Measures  
+CLIk_AI uses encryption and access controls to protect user data.  
+
+3. Compliance  
+CLIk_AI complies with GDPR and CCPA regulations.  
+
+© 2024 CLIk_AI. All rights reserved.  
