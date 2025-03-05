@@ -1,0 +1,10 @@
+DISCLAIMER  
+Effective Date: March 2025  
+
+CLIk_AI provides the Application and Services "as is" and makes no warranties, express or implied, regarding their accuracy, reliability, or suitability for any purpose. User assumes all risks associated with the use of the Application.  
+
+CLIk_AI is not responsible for:  
+1. AI Outputs: Predictions or analysis provided by the Application.  
+2. Third-Party Software: Issues caused by OpenVINO, PyTorch, or other dependencies.  
+
+© 2024 CLIk_AI. All rights reserved.  
