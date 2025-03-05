@@ -22,15 +22,8 @@ CLIk AI is a revolutionary CLI-based framework for **localized sentiment analysi
 
 ## **📥 Installation**
 1. Download the CLI package (`AI_Project-Beta1.0.0.zip`).  
-2. Run `activate.vbs` to set up Python, create a virtual environment, and install dependencies.  
+2. Run `activate.js` to set up Python, create a virtual environment, and install dependencies.  
 3. Execute `python npu_ai.py` to start analyzing sentiment.  
-
----
-
-## **🗺️ Roadmap**
-- **🌍 Multilingual support** (Q1 2024)  
-- **🎛️ Advanced training UI** (Q2 2024)  
-- **🧠 Integration with additional models** (Q3 2024)  
 
 ---
 
@@ -39,5 +32,6 @@ CLIk AI is a revolutionary CLI-based framework for **localized sentiment analysi
 ---
 
 ### **🔗 Links**
-- [GitHub Repository](https://github.com/VoidedMan15/CLIkAI/edit/main/)  
+- [GitHub Repository](https://github.com/VoidedMan15/CLIkAI/edit/main/)
+- [Official Website](https://bit.ly/CLIk-AI)
 - [Support Email](mailto:chancemoreland.clik.ai@protonmail.com)  
