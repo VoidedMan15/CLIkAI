@@ -1,0 +1,24 @@
+PRIVACY POLICY  
+Effective Date: March 2025
+
+1. Data Collection  
+CLIk_AI collects the following data:  
+- IP addresses (for website analytics).  
+- Usage data (e.g., feature usage, errors).  
+
+2. Data Usage  
+Data is used to:  
+- Improve the Application.  
+- Provide customer support.  
+
+3. Data Sharing  
+Data is not shared with third parties except for:  
+- OpenVINO and PyTorch (required for functionality).  
+
+4. User Rights  
+Users may request access to or deletion of their data by contacting support@clikai.com.  
+
+5. Security  
+CLIk_AI uses industry-standard measures to protect user data.  
+
+© 2024 CLIk_AI. All rights reserved.  
