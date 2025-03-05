@@ -1,0 +1,76 @@
+TERMS OF SERVICE (ToS)  
+For CLIk_AI Software and Services  
+Effective Date: March 2025  
+
+---
+
+1. Acceptance of Terms  
+By accessing or using the CLIk_AI software "Application" or any related services "Services", you "User" agree to be bound by these Terms of Service. If you do not agree to these terms, you may not use the Application or Services.
+
+---
+
+2. Description of Services  
+CLIk_AI provides an offline-first AI-powered sentiment analysis tool designed for educational, gaming, and cybersecurity purposes. The Application processes text locally on the User’s device and does not require an internet connection.
+
+---
+
+3. User Responsibilities  
+User agrees to:  
+1. Use the Application and Services only for lawful purposes.  
+2. Provide accurate information when creating an account or purchasing a license.  
+3. Not attempt to reverse engineer, decompile, or disassemble the Application.  
+4. Not share, sell, or redistribute the Application or license keys.  
+5. Comply with all applicable laws and third-party terms (e.g., OpenVINO, PyTorch).
+
+---
+
+4. Intellectual Property  
+All intellectual property rights in the Application and Services, including but not limited to software, algorithms, and documentation, are owned by CLIk_AI. User is granted a limited, non-exclusive, non-transferable license to use the Application as described in the End User License Agreement (EULA).
+
+---
+
+5. Privacy Policy  
+User data is processed locally on the User’s device and is not transmitted to CLIk_AI unless explicitly stated. For more information, review the CLIk_AI Privacy Policy.
+
+---
+
+6. Payment and Refunds  
+1. Payment: Users must pay the applicable fee to access the Application or Services.  
+2. Refunds: Refunds are available within 30 days of purchase if the Application is materially defective. Contact support@clikai.com for assistance.  
+3. Taxes: User is responsible for any taxes or fees associated with the purchase.
+
+---
+
+7. Limitation of Liability  
+CLIk_AI shall not be liable for:  
+1. Indirect, incidental, or consequential damages (e.g., lost profits, data loss).  
+2. Accuracy or reliability of the Application’s predictions or analysis.  
+3. Issues caused by User modifications, third-party software, or hardware failures.
+
+---
+
+8. Termination  
+CLIk_AI may terminate or suspend User access to the Application or Services at any time, without notice, for violations of these Terms of Service. Upon termination, User must cease all use of the Application and destroy all copies.
+
+---
+
+9. Changes to Terms  
+CLIk_AI reserves the right to modify these Terms of Service at any time. Continued use of the Application or Services after changes constitutes acceptance of the updated terms.
+
+---
+
+10. Governing Law  
+These Terms of Service are governed by the laws of the State of Missouri, United States. Any disputes will be resolved in the courts of Missouri.
+
+---
+
+11. Contact Information  
+For questions or concerns regarding these Terms of Service, contact:  
+CLIk_AI Support  
+Email: chancemoreland.clik.ai@protonmail.com
+
+---
+
+By using the CLIk_AI Application or Services, you agree to these Terms of Service.  
+
+© 2024 CLIk_AI. All rights reserved.  
