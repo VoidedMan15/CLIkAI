@@ -1,0 +1,12 @@
+OPEN SOURCE LICENSES  
+Effective Date: March 2025
+
+CLIk_AI uses the following open-source software:  
+1. PyTorch - BSD License  
+2. OpenVINO - Apache License 2.0  
+
+For full license details, visit:  
+- PyTorch: https://pytorch.org/  
+- OpenVINO: https://docs.openvino.ai/latest/index.html  
+
+© 2024 CLIk_AI. All rights reserved.  
