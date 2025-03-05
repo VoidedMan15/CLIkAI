@@ -1,15 +1,15 @@
 END-USER LICENSE AGREEMENT (EULA)  
 For CLIk_AI Software  
-Effective Date: October 2023  
+Effective Date: March 2025  
 
 ---
 
 1. Grant of License  
-CLIk_AI ("Company") grants you ("User") a non-exclusive, non-transferable, non-sublicensable license to install and use the CLIk_AI software ("Application") on Windows 11 devices that you own or control, solely for personal or internal business purposes, subject to the terms of this agreement.
+CLIk_AI "Company" grants you "User" a non-exclusive, non-transferable, non-sublicensable license to install and use the CLIk_AI software "Application" on Windows 11 devices that you own or control, solely for personal or internal business purposes, subject to the terms of this agreement.
 
 ---
 
-2. Restrictions  
+2. Restrictions 
 User agrees not to:  
 1. Copy, modify, or create derivative works of the Application.  
 2. Reverse engineer, decompile, or disassemble the Application, except as permitted by applicable law.  
@@ -30,7 +30,7 @@ CLIk_AI provides a 30-day limited warranty from the date of purchase, covering o
 2. User Modifications: Issues caused by unauthorized changes to the Application.  
 3. Third-Party Software: Problems arising from third-party dependencies (e.g., OpenVINO, Python).  
 
-To claim warranty support, contact support@clikai.com with proof of purchase. CLIk_AI will, at its sole discretion, either (a) repair the Application or (b) refund the purchase price.
+To claim warranty support, contact chancemoreland.clik.ai@protonmail.com with proof of purchase. CLIk_AI will, at its sole discretion, either (a) repair the Application or (b) refund the purchase price.
 
 ---
 
