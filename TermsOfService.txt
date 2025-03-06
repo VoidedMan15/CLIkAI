@@ -18,7 +18,7 @@ CLIk_AI provides an offline-first AI-powered sentiment analysis tool designed fo
 User agrees to:  
 1. Use the Application and Services only for lawful purposes.  
 2. Provide accurate information when creating an account or purchasing a license.  
-3. Not attempt to reverse engineer, decompile, or disassemble the Application.  
+3. Not attempt to reverse engineer, decompile, or disassemble the Application of the final release version.  
 4. Not share, sell, or redistribute the Application or license keys.  
 5. Comply with all applicable laws and third-party terms (e.g., OpenVINO, PyTorch).
 
