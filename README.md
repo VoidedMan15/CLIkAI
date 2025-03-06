@@ -22,15 +22,16 @@ CLIk AI is a revolutionary CLI-based framework for **localized sentiment analysi
 
 ## **📥 Installation**
 1. Download the CLI package (`AI_Project-Beta1.0.0.zip`).  
-2. Run `activate.vbs` to set up Python, create a virtual environment, and install dependencies.  
-3. Execute `python npu_ai.py` to start analyzing sentiment.  
+2. Run `csript activate.js` to set up Python and install dependencies.  
+3. Execute `python npu_ai.py` to start analyzing sentiment.
+4. I recommend using either 1.1 (For emotion recognizer) or 2.3 (Article scanner and then answer question)
 
 ---
 
 ## **🗺️ Roadmap**
-- **🌍 Multilingual support** (Q1 2024)  
-- **🎛️ Advanced training UI** (Q2 2024)  
-- **🧠 Integration with additional models** (Q3 2024)  
+- **🌍 Multilingual support** (Q1 2025)  
+- **🎛️ Advanced training UI** (Q2 2025)  
+- **🧠 Integration with other Operating Systems** (Q3 2025)  
 
 ---
 
@@ -39,11 +40,11 @@ Hi! I’m **Cadet Moreland**, a 13-year-old student at **Missouri Military Acade
 
 I have a strong passion for **coding**, excelling in **Python** while actively improving my **C++** skills. I also use **JavaScript** for automation and **PowerShell** at school, though admin restrictions sometimes limit my scripts. My interest in **cybersecurity** and **networking** is evident in my technical problem-solving abilities and familiarity with target IPs like `10.129.78.153` and `10.129.126.164`.  
 
-Beyond academics, I’m involved in **Choir** showcasing my diverse interests and leadership potential. I’m currently working on the project you are looking at.  
+Beyond academics, I’m involved in **Choir**, which showcases my diverse interests and leadership potential. I’m currently working on the project you are looking at.  
 
 As a dedicated **gamer**, I reached **level 83 in Fortnite** within a **week** without using the Battle Pass, demonstrating my persistence and skill. My computer, powered by an **Intel i5 processor**, supports my coding, gaming, and technical activities.  
 
-My email signature, *“Cadet Moreland, New Cadet, No Assigned Position,”* reflects my status at the academy, and my username across platforms is **cmanepik3**, representing my online presence. Whether tackling a programming challenge, performing in choir, or researching historical events, I approach everything with **dedication** and **enthusiasm**.  
+My email signature, *“Cadet Moreland, New Cadet, No Assigned Position,”* reflects my status at the academy, and my username across platforms is **chance.moreland.30**, representing my online presence. Whether tackling a programming challenge, performing in choir, or researching historical events, I approach everything with **dedication** and **enthusiasm**.  
 
 The future looks bright as I continue to expand my knowledge in coding, gaming, and academics, driven by a strong work ethic and curiosity.  
 
