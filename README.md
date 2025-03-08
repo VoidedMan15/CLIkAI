@@ -28,10 +28,8 @@ CLIk AI is a revolutionary CLI-based framework for **localized sentiment analysi
 
 ---
 
-## **🗺️ Roadmap**
-- **🌍 Multilingual support** (Q1 2025)  
-- **🎛️ Advanced training UI** (Q2 2025)  
-- **🧠 Integration with other Operating Systems** (Q3 2025)  
+## ** Web Hosting**
+If anyone would like to make some money, I would appreciate a person hosting my website, email me at mailto:chancemoreland.clik.ai@protonmail.comfor a quote.
 
 ---
 
