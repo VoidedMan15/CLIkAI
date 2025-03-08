@@ -29,7 +29,7 @@ CLIk AI is a revolutionary CLI-based framework for **localized sentiment analysi
 ---
 
 ## Web Hosting
-If anyone would like to make some money, I would appreciate a person hosting my website, email me at mailto:chancemoreland.clik.ai@protonmail.comfor a quote.
+If anyone would like to make some money, I would appreciate a person hosting my website, email me at mailto:chancemoreland.clik.ai@protonmail.com for a quote.
 
 ---
 
